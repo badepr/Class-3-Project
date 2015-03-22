@@ -5,7 +5,7 @@
 ### Subject
 	Integer number representing the subject
 ### mean(tBodyAcc_mean___X)
-	Numeric mean of the specified attribute
+	Average (i.e. mean) of the attribute for the specified subject while performing the specified activity
 ### mean(tBodyAcc_mean___Y)
 	Average (i.e. mean) of the attribute for the specified subject while performing the specified activity
 ### mean(tBodyAcc_mean___Z)
